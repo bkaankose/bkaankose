@@ -5,6 +5,8 @@
 I build modern, production-ready applications for the Windows ecosystem using C#, .NET and XAML technologies.  
 I care deeply about architecture, performance, clean UI, and long-term maintainability.
 
+ [For freelance inquiries check out my personal website](https://www.bkaan.dev)
+
 ---
 
 ## 🚀 Currently Working On
